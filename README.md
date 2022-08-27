@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cvishesh64
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning  DSA And Web Dev
-- 💞️ I’m looking to collaborate on  Web Dev PRojects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on  Web Dev Pojects
+- 📫 How to reach me  cvishesh64@gmail.com
 
 <!---
 cvishesh64/cvishesh64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
