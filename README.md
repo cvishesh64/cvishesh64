@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cvishesh64
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning  DSA And Web Dev
+- 👀 I’m interested in Web Development and Cloud Computing
+- 🌱 I’m currently learning  DSA And Web Dev and Basics of Cloud Computing
 - 💞️ I’m looking to collaborate on  Web Dev Pojects
 - 📫 How to reach me  cvishesh64@gmail.com
 
